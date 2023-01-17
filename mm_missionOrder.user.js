@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MM_missionOrder
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Reordering of your personal missions.
 // @author       MisteryMan/AARC
 // @match           https://www.operacni-stredisko.cz/
